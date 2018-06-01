@@ -22,7 +22,7 @@
     <Button
         android:id="@+id/btnShow"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:text="Show Coordinates"
         android:background="@color/colorPrimary"
         android:textColor="@color/white"
